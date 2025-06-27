@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on coffee shop sales analysis case study
-- 🌱 I’m currently learning SQL on Snowflake, Python
+- 🔭 I’m currently working on coffee shop sales analysis case study.
+- 🌱 I’m currently learning SQL on Snowflake, Python, Excel, Power BI, Miro and Canva.
 - 👯 I’m looking to collaborate on Data Analystics projects.
 
-- 
 <!--
 **Lazio-R/Lazio-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
